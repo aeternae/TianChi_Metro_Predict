@@ -3,7 +3,7 @@
 ### 赛题简介
 
 ![](http://aliyuntianchiresult.cn-hangzhou.oss.aliyun-inc.com/public/files/forum/1552965164939.png)
-大赛开放了杭州 20190101 至 20190125 共 25 天地铁刷卡数据记录，共涉及 3 条线路 81 个地铁站约 7000 万条数据作为训练数据(Metr􏰀_trai􏰂.zi􏰃)，供选手搭建地铁站点乘客 流量预测模型。训练数据(Metr􏰀_trai􏰂.zi􏰃)解压后可以得到 25 个 csv 文件，每天的刷卡 数据均单独存在一个 csv 文件中，以 rec􏰀rd 为前缀。如 2019 年 1 月 1 日的所有线路所有 站点的刷卡数据记录存储在 rec􏰀rd_2019-01-01.csv 文件中，以此类推。同时大赛提供了路 网地图，即各地铁站之间的连接关系表，存储在文件 Metr􏰀_r􏰀adMa􏰃.csv 文件中供选手使 用。
+大赛开放了杭州20190101至20190125共25天地铁刷卡数据记录，共涉及3条线路81个地铁站约7000万条数据作为训练数据（Metro_train.zip），供选手搭建地铁站点乘客流量预测模型。训练数据（Metro_train.zip）解压后可以得到25个csv文件，每天的刷卡数据均单独存在一个csv文件中，以record为前缀。如2019年1月1日的所有线路所有站点的刷卡数据记录存储在record_2019-01-01.csv文件中，以此类推。同时大赛提供了路网地图，即各地铁站之间的连接关系表，存储在文件Metro_roadMap.csv文件中供选手使用。
 [全球城市AI挑战赛](https://tianchi.aliyun.com/competition/entrance/231708/introduction)
 
 ### 思路
